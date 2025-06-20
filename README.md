@@ -1,6 +1,7 @@
 # 👥 Human Resources Analytics Dashboard
 
-![HR Dashboard](![Dashboard](https://github.com/user-attachments/assets/64384dda-f63b-485e-8a9a-654391bba582)
+
+![HR Dashboard](https://github.com/user-attachments/assets/64384dda-f63b-485e-8a9a-654391bba582)
 )
 ## 📊 Project Overview
 
