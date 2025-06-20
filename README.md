@@ -1,8 +1,7 @@
 # 👥 Human Resources Analytics Dashboard
 
-![HR Dashboard](![Dashboard](https://github.com/user-attachments/assets/8f2beef9-6dc7-4313-a21c-632b1f52c64f)
+![HR Dashboard](![Dashboard](https://github.com/user-attachments/assets/64384dda-f63b-485e-8a9a-654391bba582)
 )
-
 ## 📊 Project Overview
 
 This Tableau dashboard delivers a comprehensive **HR analytics solution** by visualizing workforce data such as employee demographics, departmental structure, salary insights, and performance distribution. It helps HR professionals make data-driven decisions about recruitment, retention, and workforce planning.
